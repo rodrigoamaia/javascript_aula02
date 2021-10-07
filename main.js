@@ -13,3 +13,6 @@ console.log(fruta)
 fruta.splice(0,2) // Irá remover 2 item a partir da posição 0
 fruta.push("Passas", "Tomate") // Acrescentará Passas e Tomate na penúltima e última posição
 console.log(fruta)
+
+fruta.pop()
+console.log(fruta)
