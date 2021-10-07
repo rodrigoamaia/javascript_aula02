@@ -16,3 +16,5 @@ console.log(fruta)
 
 fruta.pop()
 console.log(fruta)
+
+console.log(`Quantidade de elementos no array: ${fruta.length}`)
