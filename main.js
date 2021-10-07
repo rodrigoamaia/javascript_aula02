@@ -21,3 +21,5 @@ console.log(`Quantidade de elementos no array: ${fruta.length}`)
 
 console.log(fruta)
 console.log(fruta.reverse())
+
+console.log(fruta.toString())
