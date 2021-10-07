@@ -18,3 +18,6 @@ fruta.pop()
 console.log(fruta)
 
 console.log(`Quantidade de elementos no array: ${fruta.length}`)
+
+console.log(fruta)
+console.log(fruta.reverse())
